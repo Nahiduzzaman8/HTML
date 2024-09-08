@@ -1,0 +1,32 @@
+Intermediate Level: 
+** Meta tag & SEO 
+** adding fontawesome and google font
+** advanced table 
+** advance form 
+** form data send to your EMAIL
+** multimedia 
+** html5 elements
+
+1.Meta tags:
+    1. meta charset = "UTF-8" allow to set different icons. 
+    2. meta viewport allow to set in different height and width. 
+    3. meta http-weuiv = x ua compatible" content = ie edge allow user
+       to use website in older version of browser 
+    4. meta name = keyword content=keywordnames it will help seo(search
+       optimization)
+    5. meta author= authorName allow to set author name .  
+
+2. how to add fontawesome: 
+       first go the website select icon, paste it where want add icon and
+       then iconn's html tag. then select cdn. add cdn into head part. 
+
+3. How to add font: for eexample google font. select font->embeded code->paste it to head->thn add font family to style,body
+
+4. Advance form : in the input tag there is a lot of attribute input types.  such as 
+       password, button, checkbox, radio, url. attribute make input box different. 
+
+5. form recieve in EMAIL: It was really interesting. 
+
+6. Other tags: 
+progress(show progress), meter(almost same as progress tage.), iframe(add map)
+
