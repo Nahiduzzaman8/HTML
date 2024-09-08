@@ -6,8 +6,7 @@ Intermediate Level:
 ** form data send to your EMAIL
 ** multimedia 
 ** html5 elements
-  
-  
+
 1.Meta tags:
     1. meta charset = "UTF-8" allow to set different icons. 
     2. meta viewport allow to set in different height and width. 
@@ -28,7 +27,42 @@ Intermediate Level:
 
 5. form recieve in EMAIL: It was really interesting. 
 
-
 6. Other tags: 
 progress(show progress), meter(almost same as progress tage.), iframe(add map)
 
+
+
+
+Advance level:
+-More advance form 
+-data list
+-fild list
+-web accesseibility 
+-HTML5 API
+-HTML templates and web components 
+-sources for icons, emojis, symbols, colors
+-Learning resources 
+
+
+-More advance form:
+   input types= "colour, types= "range
+
+-data list:  
+<input list="lang" required>
+<datalist id="lang">
+    <option value="C++"></option>
+    <option value="C"></option>
+    <option value="Python"></option>
+    <option value="JAVA"></option>
+</datalist>
+
+ -fild list:
+    <fieldset>
+        <input list="lang" required>
+        <datalist id="lang">
+        <option value="C++"></option>
+        </datalist>
+    </fieldset>
+
+-web accesseibility :
+how to help SEO to find you. User navigation. 
