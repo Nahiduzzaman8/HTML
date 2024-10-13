@@ -1,12 +1,16 @@
-                              Bimillah
-1. Client sever model:
- we means the client got to any browser(chrome) and from brwser we actually sent any
- req (amazon.com) to the server. after that the server provide a response against it(the website).
- This is basic of client server model. 
-
- 
-2. Basic keys: 
- Tags, content, element (tag+content), attribute (use inside the tags), heading, 
- paragraph, horizontal line <hr>, line break, semantic tag (header, footer, form,main,table),
- nonsemantic tags(div,span)
- text formating tag 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>CORS Test</title>
+</head>
+<body>
+  <script>
+    fetch('https://target-site.com/api/account', {
+      credentials: 'include'  // Sends cookies with the request
+    })
+    .then(response => response.text())
+    .then(data => console.log('Response:', data))
+    .catch(err => console.error('Error:', err));
+  </script>
+</body>
+</html>
